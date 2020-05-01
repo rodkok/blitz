@@ -1,0 +1,56 @@
+
+
+.ourAdvantage {
+	display: flex;
+	padding-bottom: 30px;
+	border-bottom: 2px solid #adadad;
+	color: #474747;
+	width: 100%;
+}
+.ourAdvantage article {
+	margin-right: 30px;
+	padding-left: 10px;
+}
+
+.subtitle {
+	color: #adadad;
+	padding-bottom: 10px;
+}
+
+.ourStaff {
+	margin-top: 70px;
+	display: flex;
+	padding-bottom: 150px;
+	color: #474747;
+	width: 100%;
+}
+
+.ourStaff article {
+	width: 100%;
+    margin-right: 10px;
+}
+
+.ourStaff article:last-child{
+    margin-right: 0;
+}
+
+.info {
+	width: 100%;
+	border-spacing: 0;
+}
+
+.ourStaff h2 {
+	margin:0;
+
+}
+
+.index {
+	vertical-align: top;
+	text-align: right;
+	font-weight: bold;
+}
+
+.position {
+	color: #adadad;
+	margin: 0;
+}

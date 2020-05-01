@@ -1,0 +1,40 @@
+/*style of page*/
+.margin-bottom{
+	margin-bottom: 250px;
+}
+
+main {
+	width: 65%;
+	margin-right: 60px;
+}
+
+/* style of text block*/
+.text p {
+	margin-top: 10px;
+	color: #474747;
+}
+
+/* style of form block */
+input {
+	height: 25px;
+	width: 200px;
+	vertical-align: middle;
+	margin-bottom: 10px;
+	background-color: #ede9e9;
+	border: 1px solid #d6d2d6;
+}
+
+.message {
+	height: 250px;
+	width: 500px;
+	background-color: #ede9e9;
+	border: 1px solid #d6d2d6;
+}
+
+.submit {
+	text-align: left;
+	border: none;
+	background-color: white;
+	font-weight: bold;
+	font-size: 12px;
+}
